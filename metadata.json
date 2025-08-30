@@ -1,0 +1,5 @@
+{
+  "name": "Google Maps Scraper AI",
+  "description": "An application that uses AI to simulate scraping data from Google Maps based on a user's query. It displays the results in a table and allows exporting the data to a CSV file.",
+  "requestFramePermissions": []
+}
